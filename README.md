@@ -1,16 +1,19 @@
-### Hi there 👋
+# Hello there...
 
-<!--
-**BoomBox-8/BoomBox-8** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🎓 **Currently learning** : Python, C++
+- 💬 **Ask me about** : ~~Why I prematurely optimize my programs despite it being a bad idea~~
+- 😄 **Pronouns** : he/him
+- ⚡ **Fun fact** : To keep cool, chug some thermal paste
 
-Here are some ideas to get you started:
+![My Stats](https://github-readme-stats.vercel.app/api?username=BoomBox-8&count_private=true&theme=github_dark)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+# My Repos
+
+![Repo1](https://github-readme-stats.vercel.app/api/pin/?username=BoomBox-8&repo=PySQL&theme=github_dark)
+
+![Repo2](https://github-readme-stats.vercel.app/api/pin/?username=BoomBox-8&repo=python-asciizer&theme=github_dark)
+
+# My Language~~s~~
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BoomBox-8&theme=github_dark)
+
