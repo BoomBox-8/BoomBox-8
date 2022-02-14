@@ -13,6 +13,8 @@
 
 ![Repo2](https://github-readme-stats.vercel.app/api/pin/?username=BoomBox-8&repo=python-asciizer&theme=github_dark)
 
+![Repo3](https://github-readme-stats.vercel.app/api/pin/?username=BoomBox-8&repo=ASCII-Wordle&theme=github_dark)
+
 # My Language~~s~~
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BoomBox-8&theme=github_dark)
