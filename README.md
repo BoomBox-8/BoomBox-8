@@ -9,7 +9,7 @@
 
 # My Repos
 
-![Repo1](https://github-readme-stats.vercel.app/api/pin/?username=BoomBox-8&repo=PySQL&theme=github_dark)
+[comment] : # (![Repo1](https://github-readme-stats.vercel.app/api/pin/?username=BoomBox-8&repo=PySQL&theme=github_dark))
 
 ![Repo2](https://github-readme-stats.vercel.app/api/pin/?username=BoomBox-8&repo=python-asciizer&theme=github_dark)
 
