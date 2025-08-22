@@ -1,11 +1,13 @@
 # Hello there...
 
-- 🎓 **Currently learning** : Python, C++
+- 🎓 **Currently learning** : Python, C++, 6502 Assembly
 - 💬 **Ask me about** : ~~Why I prematurely optimize my programs despite it being a bad idea~~
 - 😄 **Pronouns** : he/him
 - ⚡ **Fun fact** : To keep cool, chug some thermal paste
 
-![My Stats](https://github-readme-stats.vercel.app/api?username=BoomBox-8&count_private=true&theme=github_dark)
+![BoomBox-8's GitHub stats][stats-card]
+
+[stats-card]: https://github-readme-stats-qrijs6279-boombox08s-projects.vercel.app/api?username=BoomBox-8&count_private=true&private_contributions=true&show_icons=true&theme=github_dark
 
 # My Repos
 
